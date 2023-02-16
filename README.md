@@ -3,7 +3,7 @@ This repository contains a collection of custom widgets that can be used in the 
 
 Each widget can be imported individually (not a bundle file)
 
-Widget 1: Telemetry export widget
+Widget 1: Telemetry export widget (export_telemetry.json)
 Telemetry can be exported by selecting time range and entity. Also telemetry keys can be selected.
 
 ![image](https://user-images.githubusercontent.com/12201316/219470034-af0aa0ee-6f6e-481b-8882-b8e40c2fc48b.png)
